@@ -13,9 +13,9 @@ export default function FAQ() {
                 <div className="max-w-screen-md mx-auto">
                     <Accordion>
                         <AccordionPanel>
-                            <AccordionTitle showIcon={true} iconClass='w-6 h-6 shrink-0' className='flex items-center justify-between w-full py-5 font-medium text-left text-gray-900 bg-white border-b border-gray-200 dark:border-gray-700 dark:bg-gray-900 dark:text-white'>Can I use Lander in open-source projects?</AccordionTitle>
+                            <AccordionTitle showIcon={true} iconClass='w-6 h-6 shrink-0' className='flex items-center justify-between w-full py-5 font-medium text-left text-gray-900 bg-white border-b border-gray-200 dark:border-gray-700 dark:bg-gray-900 dark:text-white'>Can I use Lander in landing page projects?</AccordionTitle>
                             <AccordionContent>
-                                <p className="mb-2 text-gray-500 dark:text-gray-400">Lander is an open-source library of interactive components built on top of Tailwind CSS including buttons, dropdowns, modals, navbars, and more.</p>
+                                <p className="mb-2 text-gray-500 dark:text-gray-400">Lander is an landing page library of interactive components built on top of Tailwind CSS including buttons, dropdowns, modals, navbars, and more.</p>
                                 <p className="text-gray-500 dark:text-gray-400">Check out this guide to learn how to <a href="#" className="text-purple-600 dark:text-purple-500 hover:underline">get started</a> and start developing websites even faster with components on top of Tailwind CSS.</p>
                             </AccordionContent>
                         </AccordionPanel>
@@ -29,7 +29,7 @@ export default function FAQ() {
                         <AccordionPanel>
                             <AccordionTitle showIcon={true} iconClass='w-6 h-6 shrink-0' className='flex items-center justify-between w-full py-5 font-medium text-left text-gray-900 bg-white border-b border-gray-200 dark:border-gray-700 dark:bg-gray-900 dark:text-white'>What are the differences between Lander and Tailwind UI</AccordionTitle>
                             <AccordionContent>
-                                <p className="mb-2 text-gray-500 dark:text-gray-400">The main difference is that the core components from Lander are open source under the MIT license, whereas Tailwind UI is a paid product. Another difference is that Lander relies on smaller and standalone components, whereas Tailwind UI offers sections of pages.</p>
+                                <p className="mb-2 text-gray-500 dark:text-gray-400">The main difference is that the core components from Lander are under the MIT license, whereas Tailwind UI is a paid product. Another difference is that Lander relies on smaller and standalone components, whereas Tailwind UI offers sections of pages.</p>
                                 <p className="mb-2 text-gray-500 dark:text-gray-400">However, we actually recommend using both Lander, Lander Pro, and even Tailwind UI as there is no technical reason stopping you from using the best of two worlds.</p>
                                 <p className="mb-2 text-gray-500 dark:text-gray-400">Learn more about these technologies:</p>
                                 <ul className="pl-5 text-gray-500 list-disc dark:text-gray-400">
@@ -47,7 +47,7 @@ export default function FAQ() {
                                 What about browser support?
                             </AccordionTitle>
                             <AccordionContent>
-                                <p className="mb-2 text-gray-500 dark:text-gray-400">The main difference is that the core components from Lander are open source under the MIT license, whereas Tailwind UI is a paid product. Another difference is that Lander relies on smaller and standalone components, whereas Tailwind UI offers sections of pages.</p>
+                                <p className="mb-2 text-gray-500 dark:text-gray-400">The main difference is that the core components from Lander are under the MIT license, whereas Tailwind UI is a paid product. Another difference is that Lander relies on smaller and standalone components, whereas Tailwind UI offers sections of pages.</p>
                                 <p className="mb-2 text-gray-500 dark:text-gray-400">However, we actually recommend using both Lander, Lander Pro, and even Tailwind UI as there is no technical reason stopping you from using the best of two worlds.</p>
                                 <p className="mb-2 text-gray-500 dark:text-gray-400">Learn more about these technologies:</p>
                                 <ul className="pl-5 text-gray-500 list-disc dark:text-gray-400">
